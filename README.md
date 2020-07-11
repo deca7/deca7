@@ -1,6 +1,4 @@
-:octocat:
-
-<img src='https://media.giphy.com/media/12WdA5ngyLO90Y/giphy.gif' width='40%' />
+<img src='https://media.giphy.com/media/12WdA5ngyLO90Y/giphy.gif' width='20%' />
 
 <!--
 **deca7/deca7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
